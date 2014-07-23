@@ -1,3 +1,0 @@
-Symfony2Rest
-============
-Not that great...
