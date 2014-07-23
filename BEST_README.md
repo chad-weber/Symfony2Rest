@@ -1,3 +1,1 @@
-Symfony2Rest
-============
-Even better!
+Symfony2BEST: Even better than before!
